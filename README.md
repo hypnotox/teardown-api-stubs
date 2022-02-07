@@ -1,3 +1,4 @@
-# Teardown Game Lua API stubs
+# Teardown scripting API stubs
 
-In this package are stubs to hint the Teardown Game Lua API for IDEs.
+In this package are stubs to hint the Teardown Lua API for IDEs.
+API Version: 0.9.0
