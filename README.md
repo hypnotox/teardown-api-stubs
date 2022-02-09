@@ -1,3 +1,6 @@
+# This project has been superseeded by the [Teardown API Stub Generator](https://github.com/hypnotox/teardown-api-stub-generator)
+# Download the current api stubs from the [releases section.](https://github.com/hypnotox/teardown-api-stub-generator/releases) 
+
 # Teardown scripting API stubs
 
 In this package are stubs to hint the Teardown Lua API for IDEs.
